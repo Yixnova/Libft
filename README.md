@@ -13,7 +13,6 @@
 # :sparkles: What is Libft?
 
 Libft is an individual project in 42 and requires us to recreate some of the standard C library functions and some additional functions that can be used later on to build a library of useful functions for the rest of the program.
-
 Since in 42 we are not allowed to use some standard libraries in our projects, we have to extend this library with our own functions as the program progresses.
 ---
 
